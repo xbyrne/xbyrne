@@ -1,7 +1,7 @@
 ### Hey y'all 👋🏻
 
-I'm Xander, I'm an astronomer at the Institute of Astronomy in Cambridge, UK.
+I'm Xander, I'm an astronomer at the Institute of Astronomy in Cambridge.
 
-🔭 I’m currently working on using machine learning techniques to study white dwarf stars *️⃣
+🔭 My work focuses on planetary systems around other stars, their dynamics, and what their planets are made of.
 
-⏪ In the past I've worked on exochemistry, and used contrastive learning to find two quasars called Sam and Seb ★★
+⏪ In the past I've worked on white dwarfs, exochemistry, and high-redshift quasars.
