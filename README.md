@@ -1,4 +1,4 @@
-### Hey y'all 👋🏻
+### Heya 👋
 
 I'm Xander, I'm an astronomer at the Institute of Astronomy in Cambridge.
 
